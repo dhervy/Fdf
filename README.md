@@ -18,9 +18,9 @@ Exemple:
 
 ## Control
 
-*deplacer  : fleche directionel
-*Zoom -    : `a`
-*Zoom +    : `s`
-*hauteur - : `z`
-*hauteur + : `x`
-*Rotation Z: `q` et `a` 
+* deplacer  : fleche directionel
+* Zoom -    : `a`
+* Zoom +    : `s`
+* hauteur - : `z`
+* hauteur + : `x`
+* Rotation Z: `q` et `a` 

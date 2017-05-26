@@ -18,7 +18,7 @@ Exemple:
 
 ## Control
 
-* deplacer  : fleche directionel
+* déplacer  : fleche directionel
 * Zoom -    : `a`
 * Zoom +    : `s`
 * hauteur - : `z`
